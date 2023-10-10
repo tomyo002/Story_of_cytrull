@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile artifacts/rsp/3968751405219853484.rsp","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp C:/Users/Daret/My project (1)/Library/Il2cppBuildCache/WebGL/Native/build.bc","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
