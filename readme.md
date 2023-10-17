@@ -16,7 +16,7 @@ le dossier sert au lancement du jeu
 - dossier import (tous les données importés)
 - dossier palette (les palettes pour le décor)
 - dossier scenes (tous les maps)
--dossier script
+- dossier script
 
 ## définition
 - 2D pixel
